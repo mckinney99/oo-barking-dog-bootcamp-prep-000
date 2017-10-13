@@ -10,4 +10,4 @@ class Dog
   end
 end
 
-Dog.name = "Max"
+Dog.name "Max"
